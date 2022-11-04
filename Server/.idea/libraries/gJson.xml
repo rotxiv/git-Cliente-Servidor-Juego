@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gJson">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ExternalJAR/gJson.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

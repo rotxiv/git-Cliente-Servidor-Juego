@@ -1,0 +1,30 @@
+{
+  "1974138567": {
+    "ip": "127.0.0.1",
+    "hour": "1667443095315",
+    "nickName": "Juan",
+    "password": "qwer",
+    "state": "offline"
+  },
+  "519312489": {
+    "ip": "127.0.0.1",
+    "hour": "1667443065499",
+    "nickName": "Lara",
+    "password": "zxcv",
+    "state": "offline"
+  },
+  "1467869793": {
+    "ip": "127.0.0.1",
+    "hour": "1667443047745",
+    "nickName": "Victor",
+    "password": "1234",
+    "state": "offline"
+  },
+  "166256929": {
+    "ip": "127.0.0.1",
+    "hour": "1667443080512",
+    "nickName": "Raul",
+    "password": "asdf",
+    "state": "offline"
+  }
+}
